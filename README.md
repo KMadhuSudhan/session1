@@ -1,2 +1,2 @@
 # session1
-Password=HS123456
+Password=HS12345
